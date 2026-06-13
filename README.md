@@ -4,10 +4,9 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ShauryaBansal-git&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 
 <p align="center">
-  🔭 I’m currently building <b>Kirayedaar</b> (a property rental platform).<br>
-  🌱 I’m currently deepening my knowledge in the <b>MERN stack</b>, <b>Blockchain</b>, and <b>AI/ML</b>.<br>
+  🌱 I’m currently deepening my knowledge in the <b>MERN stack</b>, and <b>AI/ML</b>.<br>
   📚 I love reading up on strategy, philosophy, and learning about system design. <br>
-  ⚡ Fun fact: I'm always looking for ways to build things from the ground up—whether it's an app, a digital currency system, or a business concept.
+  ⚡ Fun fact: I'm always looking for ways to build things from the ground up—whether it's an app, or a business concept.
 </p>
 
 <hr>
