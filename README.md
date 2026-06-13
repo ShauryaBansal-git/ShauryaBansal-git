@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shaurya</h1>
-<h3 align="center">I'm a 3rd-year B.Tech student and full-stack developer who enjoys building functional and user-friendly applications.</h3>
+<h3 align="center">I'm a final-year B.Tech student and full-stack developer who enjoys building functional and user-friendly applications.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ShauryaBansal-git&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 
